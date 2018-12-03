@@ -20,7 +20,8 @@ bin
 .classpath
 
 
-
+src/android/output
+src/android/target
 
 
  
